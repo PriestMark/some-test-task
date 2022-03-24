@@ -3,7 +3,7 @@ Before usage add config.env file with next content:
 
 ---
 
-PORT=8888
+PORT=8888 \n
 API_Key="Your-Coin.Api-Api-key"
 
 ---
